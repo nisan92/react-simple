@@ -1,0 +1,26 @@
+{
+  "name": "react-simple",
+  "version": "1.0.0",
+  "description": "Starting react with node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisan92/react-simple.git"
+  },
+  "keywords": [
+    "React",
+    "node",
+    "redux",
+    "express"
+  ],
+  "author": "Md Mustafa Kamal Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisan92/react-simple/issues"
+  },
+  "homepage": "https://github.com/nisan92/react-simple#readme"
+}
